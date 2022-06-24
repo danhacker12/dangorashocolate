@@ -1,0 +1,14 @@
+C:\Users\dango\source\repos\shocolate\shocolate\bin\Debug\netcoreapp3.1\shocolate.exe
+C:\Users\dango\source\repos\shocolate\shocolate\bin\Debug\netcoreapp3.1\shocolate.deps.json
+C:\Users\dango\source\repos\shocolate\shocolate\bin\Debug\netcoreapp3.1\shocolate.runtimeconfig.json
+C:\Users\dango\source\repos\shocolate\shocolate\bin\Debug\netcoreapp3.1\shocolate.runtimeconfig.dev.json
+C:\Users\dango\source\repos\shocolate\shocolate\bin\Debug\netcoreapp3.1\shocolate.dll
+C:\Users\dango\source\repos\shocolate\shocolate\bin\Debug\netcoreapp3.1\shocolate.pdb
+C:\Users\dango\source\repos\shocolate\shocolate\obj\Debug\netcoreapp3.1\shocolate.csproj.AssemblyReference.cache
+C:\Users\dango\source\repos\shocolate\shocolate\obj\Debug\netcoreapp3.1\shocolate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dango\source\repos\shocolate\shocolate\obj\Debug\netcoreapp3.1\shocolate.AssemblyInfoInputs.cache
+C:\Users\dango\source\repos\shocolate\shocolate\obj\Debug\netcoreapp3.1\shocolate.AssemblyInfo.cs
+C:\Users\dango\source\repos\shocolate\shocolate\obj\Debug\netcoreapp3.1\shocolate.csproj.CoreCompileInputs.cache
+C:\Users\dango\source\repos\shocolate\shocolate\obj\Debug\netcoreapp3.1\shocolate.dll
+C:\Users\dango\source\repos\shocolate\shocolate\obj\Debug\netcoreapp3.1\shocolate.pdb
+C:\Users\dango\source\repos\shocolate\shocolate\obj\Debug\netcoreapp3.1\shocolate.genruntimeconfig.cache
